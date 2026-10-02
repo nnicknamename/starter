@@ -1,0 +1,22 @@
+return {
+  -- {
+  --   "xiyaowong/transparent.nvim",
+  --   lazy = false,
+  --   config = function()
+  --     require("transparent").setup({
+  --       extra_groups = {
+  --         "SnacksNormal",
+  --         "SnacksPicker",
+  --         "SnacksPickerBorder",
+  --         "SnacksPickerInput",
+  --         "SnacksPickerList",
+  --         "SnacksPickerPreview",
+  --         "SnacksPickerBox",
+  --         "SnacksPickerBoxBorder",
+  --         "NormalFloat",
+  --         "FloatBorder",
+  --       },
+  --     })
+  --   end,
+  -- },
+}
